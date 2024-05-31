@@ -2,8 +2,6 @@
 👋 Hi, I’m @anthownet<br> 👀  I am student, I like Study and search about tecnology and Programming.<br> ⚡ Fun fact: As I said, I like programming and technology and look for study ways and techniques to improve my knowledge.
 
 
-## 🌐 Socials:
-[![LinkedIn](linkedin.com/in/antony-marcos-46bb85310) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anthownet&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anthownet&theme=great-gatsby&hide_border=false)<br/>
